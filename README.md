@@ -1,1 +1,4 @@
-#MY FIRST HTML5 GAME
+##MY FIRST HTML5 GAME
+
+TODO1:增加新开始按钮
+TODO2:增加暂停按钮
